@@ -8,6 +8,7 @@
   },
   "author": "Mike Lynch",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "mermaid": "^11.4.1",
     "ro-crate": "^3.4.5"

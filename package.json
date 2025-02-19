@@ -11,6 +11,7 @@
   "type": "module",
   "dependencies": {
     "mermaid": "^11.4.1",
-    "ro-crate": "^3.4.5"
+    "ro-crate": "^3.4.5",
+    "yargs": "^17.7.2"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "mermaid-crate",
+  "version": "1.0.0",
+  "description": "mermaid diagram to RO-Crate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Lynch",
+  "license": "MIT",
+  "dependencies": {
+    "mermaid": "^11.4.1",
+    "ro-crate": "^3.4.5"
+  }
+}

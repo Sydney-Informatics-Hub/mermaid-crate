@@ -10,6 +10,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "isomorphic-dompurify": "^2.21.0",
     "mermaid": "^11.4.1",
     "ro-crate": "^3.4.5",
     "yargs": "^17.7.2"
